@@ -1,0 +1,11 @@
+{
+    "name": "fireNode",
+    "description": "FirePHP Protocol implementation",
+    "version": "0.1.0",
+    "author": "Vulpescu Radu <vulpescu.radu@gmail.com>",
+    "keywords": ["FirePHP", "logging", "fireNode", "FireBug"],
+    "directories": {"lib": "./lib"},
+    "main": "./lib/fireNode.js",
+    "scripts": {},
+    "engines": {"node": ">= 0.2.5"}
+}
